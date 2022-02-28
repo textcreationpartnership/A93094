@@ -1,0 +1,972 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The famers fam'd or An answer, to two seditious pamphlets, the one intituled The just man in bonds, the other A pearle in a dunghill, written in the behalfe of that notorious lyar, and libeller John Lilburne. Also a full reply, with a confutation of certaine objections devised by the trayterous author of a seditious and unparraled [sic] libell, intituled A remonstrance of many thousand citizens, and other free borne people of England, to their owne House of Commons, &amp;c. Wherein the wickednesse of the authors, and their abettors, the destructive courses of the sectaries, and their adherors is amply discovered. So that all (not wilfully blind) may cleerely see, that they are men stirred up by mans enemie, the Devill, as to ruine themselves, so this poore nation, that yet lies bedrid of her wounds lately received. And ought to be avoided as serpents, to be contemned as abjects, and to be delivered over to Satan, as blasphemers and reprobates. / Written by S. Shepheard.</title>
+            <author>Sheppard, S. (Samuel)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 79 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93094</idno>
+            <idno type="STC">Wing S3163</idno>
+            <idno type="STC">Thomason E349_5</idno>
+            <idno type="STC">ESTC R201022</idno>
+            <idno type="EEBO-CITATION">99861607</idno>
+            <idno type="PROQUEST">99861607</idno>
+            <idno type="VID">113745</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93094)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113745)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 56:E349[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The famers fam'd or An answer, to two seditious pamphlets, the one intituled The just man in bonds, the other A pearle in a dunghill, written in the behalfe of that notorious lyar, and libeller John Lilburne. Also a full reply, with a confutation of certaine objections devised by the trayterous author of a seditious and unparraled [sic] libell, intituled A remonstrance of many thousand citizens, and other free borne people of England, to their owne House of Commons, &amp;c. Wherein the wickednesse of the authors, and their abettors, the destructive courses of the sectaries, and their adherors is amply discovered. So that all (not wilfully blind) may cleerely see, that they are men stirred up by mans enemie, the Devill, as to ruine themselves, so this poore nation, that yet lies bedrid of her wounds lately received. And ought to be avoided as serpents, to be contemned as abjects, and to be delivered over to Satan, as blasphemers and reprobates. / Written by S. Shepheard.</title>
+                  <author>Sheppard, S. (Samuel)</author>
+               </titleStmt>
+               <extent>[4], 28 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Hardesty, at the signe of the Black-spread Eagle in Duck-Lane,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reply to "The just man in bonds" (Wing L2124) by John Lilburne, and "A pearle in a dounghill" (Wing O632A) and "A remonstrance of many thousand citizens, and other free-born people of England, to their own House of Commons" (Wing O632B) by Richard Overton.</note>
+                  <note>Annotation on Thomason copy: "Aug: 4th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lilburne, John, 1614?-1657. --  Just man in bonds --  Early works to 1800.</term>
+               <term>Overton, Richard, fl. 1646. --  Pearle in a dunghill --  Early works to 1800.</term>
+               <term>Overton, Richard, fl. 1646. --  Remonstrance of many thousand citizens, and other free-born people of England, to their own House of Commons --  Early works to 1800.</term>
+               <term>Literary quarrels --  Early works to 1800.</term>
+               <term>Christian sects --  England --  Controversial literature --  Early works to 1800.</term>
+               <term>Detention of persons --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113745:1" rendition="simple:additions"/>
+            <p>THE FAMERS FAM'D OR AN ANSWER, To two Seditious Pamphlets, the one Intituled THE JUST MAN IN BONDS, the other A PEARLE IN A DUNGHILL, written in the behalfe of that notorious Lyar, and Libeller JOHN LILBURNE.</p>
+            <p>Alſo a full reply, with a confutation of certaine objecti<g ref="char:EOLhyphen"/>ons deviſed by the Trayterous Author of a Seditious and unparra<g ref="char:EOLhyphen"/>led libell, Intituled A REMONSTRANCE <hi>of many Thouſand citi<g ref="char:EOLhyphen"/>zens, and other free borne people of</hi> England, <hi>to their own Houſe of</hi> COMMONS, &amp;c.</p>
+            <p>Wherein the wickedneſſe of the Authors, and their Abettors, the deſtructive courſes of the Sectaries, and their Adherors is amply diſcovered.</p>
+            <p>So that all (not wilfully blind) may cleerely ſee, that they are men ſtirred up by mans Enemie, the Devill, as to ruine themſelves, ſo this poore Nati<g ref="char:EOLhyphen"/>on, that yet lies Bedrid of her wounds lately received.</p>
+            <p>And ought to be avoided as Serpents, to be contemned as Abjects, and to be delivered over to Satan, as Blaſphemers and Reprobates.</p>
+            <q>
+               <hi>Likewiſe alſo theſe filthy Dreamers defile the fleſh, deſpiſe Dominion and ſpeake evill of Dignities,</hi>
+               <bibl>
+                  <hi> Jude ver.</hi> 8.</bibl>
+            </q>
+            <q>
+               <hi>But theſe ſpeake evill of theſe things which they know not, but what they know naturally, as bruit beasts, in thoſe things they corrupt themſelves</hi> 
+               <bibl>ver. 10.</bibl>
+            </q>
+            <q>
+               <hi>Omnium malorum Stultitia eſt Mater.</hi>
+               <bibl>
+                  <hi> Cicero.</hi>
+               </bibl>
+            </q>
+            <q>
+               <hi>Quid tam impium eſt quod mortalium Vulgus non admittat?</hi>
+               <bibl>
+                  <hi> De<g ref="char:EOLhyphen"/>moſthenes.</hi>
+               </bibl>
+            </q>
+            <p>Written by <hi>S. SHEPHEARD.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Iohn Hardeſty,</hi> at the Signe of the <hi>black<g ref="char:EOLhyphen"/>ſpread Eagle</hi> in <hi>Duke-Lane,</hi> 1646.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:113745:2"/>
+            <pb facs="tcp:113745:2"/>
+            <head>To The Right Honourable the houſe of Peers, Aſſembled in PARLIAMENT.</head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">Y</seg>Ou whoſe names are graven ſo deeply on the Be<g ref="char:EOLhyphen"/>drole of <hi>Fame,</hi> that the ruſt of all devouring time, ſhall never be able to eat or diminiſts a Letter; <hi>Adulation,</hi> and my nature are ods, and I have the leaſt to anſwer for that, of all my Crimes; yet it becomes the juſt to be thankfull, <hi>and thoſe that will not honour the Inſtruments of Gods Glory, detract from their Maker.</hi> Firſt, therefore all thankes be rendred to your honours for your conſtant fidelity to your Country, that you would not degenerate, but chooſe rather to be afflicted with Gods people, then to injoy the pleaſures of ſinne for aſeaſon, that you would be pleaſed to under goe Cal<g ref="char:EOLhyphen"/>lumnies, and the <note n="*" place="margin">Traytors.</note> 
+               <hi>Brand</hi> of <hi>infamie;</hi> the subjects of this Kingdome cannot chuſe but mutually joyne with me, as once the women in the dance, andſay, <hi>many Peeres have done
+<pb facs="tcp:113745:3"/> worthy deeds for the good of the people, but ye have exceeded them all,</hi> undergoing the frowne of Majeſtie, which who ſo lookes on ſees a Baſilisk, and ſeldome eſcapeth Death; venturing your Eſtates, wherein ſome men place their <hi>Summum Bonum,</hi> and many of you your lives to purchaſe Freedome for a people, altogether ungratefull (I ſay not ſo) but ſome men furniſht with corrupted mindes, whom satan hath filled with the ſpirit of <hi>Enmitie,</hi> and <hi>Detracti<g ref="char:EOLhyphen"/>on,</hi> to the griefe of my ſoule, and of all the leaſt vertuous, with their pennes, like ſo many ſharpened Pikes, as <hi>Saul,</hi> once to <hi>David</hi> his Preſerver, they ſtab at their deliverers: men that are as unconſtant as the wind, more foolish then <hi>Claudius,</hi> more wicked then <hi>Stajus,</hi> who place their felicity in that to be avoyded City-racer <hi>Mutabilitie,</hi> ſome of whoſe ſeurrilous Emptie Pamphlets, coming to my hands, I con<g ref="char:EOLhyphen"/>ceived I was bound in honour to my Maker, and in thank<g ref="char:EOLhyphen"/>fulneſſe to your Honours, to Reply to the ſaid Pamphlets; <hi>for theſe ravenous Fowles the People, are naturally in<g ref="char:EOLhyphen"/>clined, with greedineſſe to ſwallow whole Gobbets of ſuch carion, though they ſurfet themſelves thereby, and are often forced for it, to be let bloud.</hi> Thus deſiring that great God, who hath greatly aſſiſted your Honours hi<g ref="char:EOLhyphen"/>thereto, to keepe you for ever untouched by your Enemies, I ceaſe, and ſhall ever remaine,</p>
+            <closer>
+               <signed>Your Honours moſt humble Servant. S. S.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="answer">
+            <pb n="1" facs="tcp:113745:3"/>
+            <head>THE FAMERS FAM'D.</head>
+            <p>IF a Commander doe faithfull ſervice for a ſpace, and afterward revolteth and fighteth againſt that cauſe which erſt he maintain<g ref="char:EOLhyphen"/>ed, muſt the memory of his former Service hinder the courſe of Juſtice? ſurely no; if Lievtenant Colonell <hi>Lilburne,</hi> ſometime an obſcure Apprentice in <hi>London,</hi> have formerly done Acts for his Countrey, worthy acceptance, though it may be evidently pro<g ref="char:EOLhyphen"/>ved, the maine reaſon why he accepted of the Parliaments Service, was not ſo much out of an affection he bare to the Parliament and their cauſe, as to protect himſelfe againſt his creditors Arreſts, I ſay is he therefore to be excuſed, if he degenerate, and become an open and profeſt Enemie to that ſtate, whoſe cauſe, hee erſt ſeem<g ref="char:EOLhyphen"/>ed ſo ſtiff<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y to maintaine?</p>
+            <p>Was there ever Papiſt, Malignant, Royaliſt, or Cavaleer did demeane himſelfe ſo libellouſly, ſlanderouſly, contemptuouſly, and ungratefully to the Parliament as this <hi>Lilburne</hi> hath done? and indeed the man underſtandeth not what he ſpeaketh, nor whereof he affirmes, <hi>he hath erred from the truth, and is now turned unto vaine Ianglings, not knowing the end of the Commandement is love,</hi> 1 Tim. Chapter 1. <hi>Which commands him not to Raile on Dignities,</hi> and ſpeake evill of Governments; this is the man, and that, the firſt, that findeth fault, and proclaimeth it a breach of <hi>Magna Charta,</hi> which himſelf had yet never Law enough to underſtand, becauſe he was cited to come before Authority, before he was acquainted with his Accuſer, or accuſation, whereas the meaneſt capacities know, that there is nothing more uſuall then for Judges, Juſtices, and all ſuperior, or inferior Offices, or Courts of the Realme, upon credible infor<g ref="char:EOLhyphen"/>mation, not onely to Summon, but to Attach men by Conſtables, and other Officers, to appeare before them to anſwer ſuch matters as ſhall be objected againſt them; and this none ever deemed <hi>(Lil<g ref="char:EOLhyphen"/>burne excepted)</hi> to be illegall, or contrary to <hi>Magna Charta,</hi> or the Subjects Liberty; and ſhall not the Parliament, the Supreameſt of all Courts, claime and have the ſame Priviledge, that under and
+<pb n="4" facs="tcp:113745:4"/> inferior Courts enjoy, this ſuperbious, moſt egregious, malapert, upſtart <hi>Lilburne,</hi> whom Satan ſo often as he liſteth inciteth, and prompteth, to compile ſeditious Pamphlets, deſtructive to the Peace of the Kingdome, this man out of his private ſpleene to Co<g ref="char:EOLhyphen"/>lonell <hi>Edward King,</hi> a man under whom once he ſerved, wrote a ſcandalous Pamphlet wherein he taxeth the ſaid King for a be<g ref="char:EOLhyphen"/>trayer of the truſt repoſed in him by the Parliament, that through his default, many Townes of worth became a prey to the Enemy, with divers other, which were notoriouſly knowne to be falſe and ſuborned; in the ſame Pamphlet, he Rayleth againſt the Lawes, terming them <hi>Norman Innovations,</hi> with many other ſtrange, and unparreleld ſpeeches, all which he ſent to Judge <hi>Reeve,</hi> who him<g ref="char:EOLhyphen"/>ſelfe, or ſome other for him, made a complaint to the Lords; who Immediately ſummoned the Libeller before them; their warrant this</p>
+            <floatingText xml:lang="eng" type="warrant">
+               <body>
+                  <opener>
+                     <dateline>
+                        <date>Die Mercurii, 10 Iune 16. 1646.</date>
+                     </dateline>
+                  </opener>
+                  <p>
+                     <hi>It is this day ordered by the Lords, in Parliament Aſſembled, that Leivtenant Colonell Lilburne, ſhall forth with upon ſight hereof, appeare before the Lords in Parliament; to anſwer ſuch things, as he ſtands charged with before their Lordſhips, concerning a Pamphlet, Intituled</hi> The juſt mans juſtification or a Letter by way of Plea in Barre, <hi>and here of he ſhall not faile, as he will anſwer the contrary at his peril.</hi>
+                  </p>
+                  <closer>
+                     <signed>Iohn Browne Cler. Parl.</signed>
+                  </closer>
+                  <trailer>To the Gentleman uſher attending the Houſe, or his Deputy.</trailer>
+               </body>
+            </floatingText>
+            <p>
+               <hi>Lilburne</hi> having received this Warrant by the Officer, raged and after his wonted manner, bewailed the breach of <hi>Magna Charta,</hi> and denied to appeare; but on better conſideration he reſolved to obey, and coming to <hi>Weſtminſter,</hi> and being brought to the Barre of the Lords Houſe, he carried himſelfe before them, in a moſt contemptuous, and vile manner, and being demaunded, by the Earle of <hi>Mancheſter</hi> their ſpeaker (who, cauſed Maſter <hi>Smith</hi> to draw forth his Libell, whether or no, he did not leave that Pam<g ref="char:EOLhyphen"/>phlet at Judge <hi>Reeves</hi> his Houſe, for the Judge himſelfe; he would not deigne to anſwer to that, but with erected Front, and like a wily Sophiſter, demanded, if they had any formall or legall charge a<g ref="char:EOLhyphen"/>gainſt him; if they had, he deſired to ſee it, and then he would anſwer to their queſtion; to whom the Earle of <hi>Mancheſter</hi> ſaid, Lievtenant Colonell <hi>Lilburne,</hi> the Lords Command you to anſwer poſitively to the queſtion; to whom <hi>Lilburne</hi> replied, my Lord, the paper in Ma<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ter <hi>Smiths</hi> hand is my anſwer to the queſtion and
+<pb n="5" facs="tcp:113745:4"/> no other anſwer will I give you, whereupon he was Commanded to goe forth, upon the peruſall of which paper full of reproachfull ſpeeches, and lying vanities before unheard of, he was by the Ho<g ref="char:EOLhyphen"/>nourable Houſe of Lords, againe committed to <hi>Newgate,</hi> by ver<g ref="char:EOLhyphen"/>tue of this Order.</p>
+            <floatingText xml:lang="eng" type="order">
+               <body>
+                  <opener>
+                     <dateline>
+                        <date>Die Iovis 11. Iune 1646.</date>
+                     </dateline>
+                  </opener>
+                  <p>
+                     <hi>It is this day ordered by the Lords in Parliament aſſembled, that Liev<g ref="char:EOLhyphen"/>tenant Colonell</hi> Lilburne, <hi>ſhall ſtand committed, to the Priſon of</hi> New<g ref="char:EOLhyphen"/>gate, <hi>for exhibiting to this Houſe a ſcandalous, and contemptious Paper it being delivered by himſelfe, at the Barre this day; and that the Keeper of the ſaid Priſon ſhall keepe himſafely, untill the pleaſure of this Houſe be further ſignified, and this to be a ſufficient Warrant, on that behalfe.</hi>
+                  </p>
+                  <closer>
+                     <signed>Iohn Browne Cler. Parl.</signed>
+                  </closer>
+                  <trailer>To the Gentleman Uſher of this Houſe or his Deputy.</trailer>
+               </body>
+            </floatingText>
+            <p>Since thoſe that ſit at the ſterne of Government, the Right Ho<g ref="char:EOLhyphen"/>nourable Lords Aſſembled in Parliament, cannot keepe themſelves from the obloquies, of ſuch as owe their lives unto them, for their care and watchfulneſſe for their good, we that are of low degree, ought not to account our condition deplorable, when we are ſcan<g ref="char:EOLhyphen"/>dalized and contemned, when we ſee even our Magiſtrates, and chiefe Rulers of the Kingdom, not only in talke, but even in Printed Pamphlets, traduced by the ſeditious and vile ſlanderers, of whom one of our moderne Poets faith truly.</p>
+            <lg>
+               <l>
+                  <hi>Where they deſire to enter, there's no Fence;</hi>
+               </l>
+               <l>
+                  <hi>No Antient Title, no Inheritance</hi>
+               </l>
+               <l>
+                  <hi>Can ſerve for Plea, for theſe men wreſt the Law,</hi>
+               </l>
+               <l>
+                  <hi>Keepe Magiſtrates, and Officers in awe;</hi>
+               </l>
+               <l>
+                  <hi>They pluck the Ballance from faire Iuſtice fiſt,</hi>
+               </l>
+               <l>
+                  <hi>And make her Miniſters doe what they liſt.</hi>
+               </l>
+            </lg>
+            <p>But to the matter in hand, on the 22. of <hi>Iune</hi> 1646. the Lords ſent an order, to the Keeper of <hi>Newgate</hi> to bring <hi>Lilburne</hi> before them, now ſuch was the obſtinacy and Rebellion; of this <note n="*" place="margin">Such a de<g ref="char:EOLhyphen"/>ſpiſer and con<g ref="char:EOLhyphen"/>temner of au<g ref="char:EOLhyphen"/>thority as him<g ref="char:EOLhyphen"/>ſelfe was never knowne.</note> 
+               <hi>Lil<g ref="char:EOLhyphen"/>burne,</hi> that he not onely Railed afreſh againſt the Lords, but keeping his Chamber loked, utterly refuſed to obey the Or<g ref="char:EOLhyphen"/>der, whereupon the Officers brake open his doore and tooke the <hi>Libeller</hi> with them to <hi>Weſtminſter,</hi> where being arrived hee was called into the Houſe of Lords, and commanded to kneele at their <hi>Barre,</hi> which <note n="*" place="margin">
+                  <hi>Liburne,</hi> tho<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſometime mentionedſt Scripture to confirme thee in ill, couldſt thou not then have thought of one place of Scripture, where thou are commanded even by Chriſ himſelfe, to give Honour, to whom Hon<g ref="char:EOLhyphen"/>our is due: but thou and thy fellow Sectaries, agree with the Papiſt in this, in that ye al<g ref="char:EOLhyphen"/>low of the Scriptures no farther then they by you wreſted will maintaine your Schiſme and Faction.</note> he utterly refuſed to doe; after ſome urging, and his conſtant deniall, the Earle of <hi>Mancheſter</hi> de<g ref="char:EOLhyphen"/>manded
+<pb n="4" facs="tcp:113745:5"/> a reaſon, why he refuſed to kneele, to which our <hi>Sim<g ref="char:EOLhyphen"/>plicius,</hi> anſwered, <hi>that he had learned both better Religion and man<g ref="char:EOLhyphen"/>ners then to kneele to any humane, or mortall Power, how great ſoever,</hi> with many other peremptory, and unbeſeeming ſpeeches, which none ſave <hi>Lilburne</hi> durſt have uttered, for which he was againe returned to <hi>Newgate</hi> by a ſtricter Order then before.</p>
+            <floatingText xml:lang="eng" type="order">
+               <body>
+                  <opener>
+                     <dateline>
+                        <date>Die Martis, 23. Iunii 1646.</date>
+                     </dateline>
+                  </opener>
+                  <p>
+                     <hi>Ordered by the Lords in Parliament Aſſembled that</hi> Iohn Lilburne <hi>ſhall ſtand committed cloſe Priſoner, in the Priſon of</hi> Newgate, <hi>and that he be not permitted, to have Penne, Inke, or Paper; and none ſhall have ac<g ref="char:EOLhyphen"/>ceſſe to him in any kinde, but his Keeper, untill this Court doe take further order.</hi>
+                  </p>
+                  <closer>
+                     <signed>Iohn Browne Cler. Parl.</signed>
+                  </closer>
+                  <postscript>
+                     <p>Exam. per me Rec,</p>
+                     <closer>
+                        <signed>Briſcoe (Cler. de <hi>Newgate.)</hi>
+                        </signed>
+                     </closer>
+                  </postscript>
+                  <trailer>To the Keeper of <hi>Newgate,</hi> Deputy, or Deputies.</trailer>
+               </body>
+            </floatingText>
+            <p>During the Impriſonment of this tranſcendent Iyar and Libeller <hi>Lilburne,</hi> who ought by the Ancient Lawes of this Land to have his tongue cut out; for * this it runnes, <hi>that the Author and ſpreader</hi> 
+               <note place="margin">See the Laws of King <hi>Al<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ed</hi> Chap. 28. See <hi>Bracton, 2. Tit. decri<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ine l<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Ma<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſtatis. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ee Stamfords <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>leas De co<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nes l 2. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l. 110.</hi>
+               </note> 
+               <hi>of</hi> Falſe <hi>Rumors among the people, had his tongue cut out if he redeemed it not with the price of his head;</hi> that at the common * Law before and ſince <hi>Magna Charta,</hi> it was High Treaſon, for any man to Aſſiſt, or give conſent to any thing tending to Sedition, in Realme or Army; <hi>which what more ſurely or ſpeedier canſeth then Seditious Libells?</hi> of which whether <hi>Lilburne</hi> be guilty or no, I appeale to all that have Read his Anſwer to <hi>nine Arguments,</hi> His <hi>Englands Birthright,</hi> &amp;c. I ſay during the Impriſonment of this <hi>Lilburne,</hi> without Licenſe or name, there have come forth two Printed Pam<g ref="char:EOLhyphen"/>phlets; the Authors taking upon them to vindicate their Brother <hi>Iohn Lilburne,</hi> throughout almoſt their whole Pamphlets, vent nothing, but Railing Accuſations, againſt the ever honoured Houſe of Peers, the firſt whereof I intend firſt to anſwer, and after God willing the other; I ſhall begin within his owne words verba<g ref="char:EOLhyphen"/>tim, as they were by him publiſhed.</p>
+         </div>
+         <div type="answer">
+            <pb n="5" facs="tcp:113745:5"/>
+            <head>An Anſwer to a ſeditious Pamphlet, lately publiſhed in Print, intituled the JUST MAN IN BONDS.</head>
+            <p>
+               <hi>SInce this worthy Gentlemans caſe is</hi> 
+               <note n="*" place="margin">Lilburn.</note> 
+               <hi>mine, and every man<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, who though we be at liberty to day, may be in Newgate tomorrow, if the</hi> 
+               <note n="*" place="margin">Onely <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> own and <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> compl<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ces.</note> 
+               <hi>houſe of Lords ſo pleaſe, doth it not equally and alike concerne all the people of England, to lay it to their heart and either fit both our minds, and necks to Indure Siavery, or otherwiſe thinke of ſome ſpeedy and ef<g ref="char:EOLhyphen"/>fectuall meanes, to free our ſelves and our poſterity therefrom?</hi>
+            </p>
+            <p>Marke I beſeech you how, (prophetically) the Pamphleter be<g ref="char:EOLhyphen"/>gins and fortelleth his own dole, that though hee be at liberty to day, he may be in priſon to morrow; and good reaſon Sir; <hi>for the doers and aſſiſters are all one,</hi> and ought be alike puniſhed; yet though it may be and is your due, yet not every mans; for I hope there will never be a generall declaring; for then we might expect a totall deſtruction; therfore it is enough and one too many, that your ſelfe, according as you ſeeme to feare, commit ſuch vile crimes, whereby you are made capable of impriſonment; and whereas you as it were in ſcorn ſay, <hi>if the Lords pleaſe,</hi> know Sir it is the pleaſure of God the King of Kings, and Lord of Lords, that ſuch Achans as you and your brother <hi>Lilburne</hi> ſhould be brought to condigne puniſh<g ref="char:EOLhyphen"/>ment, and therefore if the Lords ſhould neglect ſo neceſſary a duty, as is the puniſhing of ſuch wretches, they would be guilty of hey<g ref="char:EOLhyphen"/>nous ſin before God, and be the occaſioners of their own contempt by men; but ſee he taketh in hand, by way of inſinuation, to cauſe the people to thinke themſelves vaſſaliz'd, becauſe Juſtice is exe<g ref="char:EOLhyphen"/>cuted, and exhorteth them to reſolve to be ſlaved, or to take ſome ſpeedy courſe to free themſelves; the malevolent, and wicked ſpirit of the Author, under pretence of enlightning the eyes of the ſubject, would put them out clean, for except the Lords ſtick to the Commons, and the Commons to the Lords, there wil never be peace or joy in England; but I make no doubt but the ſubjects of this Kingdome reſpect more the glory of God and their owne welfare, then to give eare to this wicked incendiary. The Pamphleter pro<g ref="char:EOLhyphen"/>ceedes.</p>
+            <p>
+               <hi>The power of the Lords is</hi> 
+               <note n="*" place="margin">A profe ſimile.</note> 
+               <hi>like a ſhallow uneven water more in noiſe then
+<pb n="6" facs="tcp:113745:6"/> ſubſtance; if we could diſtinguiſh between what is theirs of right, and what by encroachment, we ſhould finde that they have decked themſelves with the Commoners Fe<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>thers, which being reaſſumed, they would appeare no better arrayed then other men, even equall by Law, inferiour in upright<g ref="char:EOLhyphen"/>neſſe and honeſty of converſation.</hi>
+            </p>
+            <p>See here the ignorance of the Pamphleter, the power of the Lords, ſaith he, <hi>is like <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and uneven Water,</hi> whereas the power of the Lords may be rather reſembled to a deepe Sea, whoſe force (out that themſelves graciouſly limit it were able to ſinke and over<g ref="char:EOLhyphen"/>whelme the libeller <hi>Lilburne,</hi> and this lying Pamphleter, with their complices, even to Abyſſe, they being in the nature of a body Ari<g ref="char:EOLhyphen"/>ſtocraticall, and indeed the ſtrongeſt prop the people have. But to proceed, <hi>if</hi> faith he) <hi>we could diſtinguiſh;</hi> I but it being beyond your reach, you ſhew great ſimplicity to meddle with thoſe things you know not, and it appeares you cannot diſtinguiſh by the enſu<g ref="char:EOLhyphen"/>ing words, <hi>we ſhould finde that they b<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ue decked themſelves with the Com<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oners feathers;</hi> very pretty, doth the King receive his Honour from the Subject, or the Subject from Him? ſurely all Honours flow from Him the moſt Honoured, and He advanceth and ſetteth up; and as he by God Reignes, ſo they by Him Rule; therefore you ignorantly erre in ſaying, That they are decked with borrowed Feathers. Againe, whereas you ſay, <hi>that if every Bird had one feather, they would appeare no better arrayed then other men,</hi> I anſwer, that who ſo goeth about to unplume them, and inſtead of Reverence doth uſe Violence, ſinneth againſt his owne ſoule, by diſobeying the Com<g ref="char:EOLhyphen"/>mandement of God by the mouth of <hi>Paul,</hi> who writing to certain overſeers of the Church, chargeth them to put the people in mind to OBEY RULERS; nor would they be equall with the Com<g ref="char:EOLhyphen"/>mons, were they ſtripped of all, <hi>for there is an innate heroiek nature reſiding in all deſcending of Noble blood;</hi> ſo that they affect nothing but that which is Noble and high; and for that you baſely alledge, <hi>They would be inferiour in honeſty and uprightneſse of converſation,</hi> it is a groſſe and manifeſt lie; the whole Kingdome may judge how faithfully, valiantly and piouſly they have borne themſelves, in go<g ref="char:EOLhyphen"/>ing in and out before the people, ſince this war; and by the paſt we may judge of the future. But ſee more inſolencies.</p>
+            <p>
+               <hi>We ſhould finde that they are but P<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>inted properties, Dagons that our ſuperſtition and ignorance have erected, no naturall Iſſues of the Lawes,
+<pb n="7" facs="tcp:113745:6"/> the ex<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ube<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ences and Muſhromes of Prerogative, the We<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s of juſt G<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>vernment, putting the body of the people to paine, as well as occaſioning deformity; ſonnes of conqueſt they are and uſurpation, not of choice and election, intruded upon us by power; (not conſtituted by conſent) &amp;c.</hi>
+            </p>
+            <p>The power of the Lords, as aforeſaid; is eſſentiall, as deriving their power from him who hath it from God, and though it be very true that the Commons have in them Ignorance and Superſti<g ref="char:EOLhyphen"/>tion enough, yet their wiſdome or true beliefe could never have erected <note n="*" place="margin">The firſt i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſtituted Lord</note> them, by reaſon that many headed Beaſt the Commons, ſeldome abide conſtant in one Faith, and retaine for the generall little or no wiſedome, ſave ſufficient perhaps to buy and ſell and get gaine. The Lords are conſtituted and ordained by the Lawes of our Land, which hath forever been guided by King, Lords, and Com<g ref="char:EOLhyphen"/>mons in Parliament aſſembled. They are ſo farre from being the wens of juſt government, or putting the people to paine, that they are the ſoveraigne Balm, and preſerving Antodote thereof; example, the Earle of Eſsex, one of thoſe famous Peeres whom you maligne, who firſt ſounded the depth of a dangerous Sea, and gave notice of thoſe whirlpooles which elſe perhaps might have ſwallowed his ſucceſſor, now a triumphant conquerour, they are not occaſion of the leaſt deformity, but rather of luſtre and glory to the Common<g ref="char:EOLhyphen"/>wealth, appearing like ſo many <hi>Ioſhuahs</hi> with their Swords drawn, ready to lead the people forth, againſt Gods enemies, or to govern them at home in peace and happineſſe. They are not uſurpers, for they claim not in the leaſt reſpect any of the peoples right, but what they have they enjoy, as being the ſonnes of their glorious Fathers, who merited more honour then was heaped on them, it being but a Recompence in ſome nieaſure for the good that through their means, as Gods inſtruments, the people enjoyed; nor accepted they their honour at firſt without conſent of the people, for that which is not gainſaid, is aſſented to.</p>
+            <p>
+               <hi>Lay to heart I beſeech you, O you Houſe of Commons, that neither your ſelves nor children can plead any immunity or ſecurity from this oruelty of the Houſe of Lords, if now you be ſlack or negligent, but that you may juſtly expect, and feel the ſmart thereof upon you and your proſperity, as well as we upon us and ours, at leaſt after you are diſſolved, and diſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>siſ<g ref="char:EOLhyphen"/>ſed from your Authorities; is not this one of the main points for which <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> have put your ſelves and us, and ſo many of this Nation as ſtand for
+<pb n="8" facs="tcp:113745:7"/> your defence, to the effuſion of ſo much blood, and multitude of eſtates?</hi>
+            </p>
+            <p>Behold the libellers Maſter-piece; here he goeth about to raiſe diſcord betwixt the Lords and Commons, perſwading them be<g ref="char:EOLhyphen"/>cauſe * they have juſtify puniſhed a ſeditious and infamous perſon, <note place="margin">
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Lords.</note> according to their duties, and the Lawes of the Kingdome, that therefore the Lords intrench on the liberties of the Commons, and intend to bring the ſubjects of this Kingdome into bondage, <hi>the</hi> SECTARIES <hi>and their Abettors are ſo enraged, that they have not in all things their ſwinge and ſway,</hi> that they could wiſh out of ven<g ref="char:EOLhyphen"/>geance, the Kingdome were on fire, while they warmed themſelves by the light ont: and therefore they leave no projects unattemp<g ref="char:EOLhyphen"/>ted, no Falſities unſaid, to raiſe Diſcord and Diviſion. And to make his argument invincible, as he ſuppoſeth, he inſinuateth that maine ground of this more then unnaturall Warre, was to aboliſh illegall and tyrannicall power, which is moſt true; but doth it therefore follow, that we having cut the throat of Innovation, ſhould forſake the worſhip of God? or that' cauſe we have cruſhed to pieces Ariſtocraticall or Tyrannicall power, we ſhould not now make uſe either of Law or Juſtice? GOD FORBID.</p>
+            <p>
+               <hi>If yee did intend to expoſe this Kingdome to the miſeries of war, for no other end, but that one kind of Arbitrary government, Star-obamber Cham<g ref="char:EOLhyphen"/>ber, and High-commiſſion power might be aboliſhed, and others of that kind eſtabliſhed over us; why would ye not tell us, that we might have both ſpared our lives and eſtates?</hi>
+            </p>
+            <p>Now ſteeres the Pamphleter another courſe more irregular then before; now he exclaimeth on the houſe of Commons, that they did not give advertiſement; that having puld down one Arbitrary power, they would erect another; the rancorous and evill minde of the Pamphleter, how many waies trieth he to worke contention and confuſion, becauſe <hi>Lilburne</hi> is not countenanced in his perni<g ref="char:EOLhyphen"/>cious waies, as he hath been formerly too too much? now they are netled to the purpoſe, and they care not what they affirme; and therefore forſooth the Houſe of Commons, ' cauſe they not oppo<g ref="char:EOLhyphen"/>ſed the Houſe of Lords, in their legall tryall and juſt cenſure of <hi>Lilburne,</hi> are taxed; that though they have aboliſhed one kind of Arbitrary power, they are props of another: and therefore the trayterous Pamphleter ſeemeth to lament, that they had not
+<pb n="9" facs="tcp:113745:7"/> more timely notice, thereby to have prevented the great effuſſion of blood, and loſſe of their eſtates. All theſe queſtions and affirma<g ref="char:EOLhyphen"/>tions had not been thought on, had JOHN LILBURNE been walking abroad.</p>
+            <p>
+               <hi>But if ye would either free your ſelves from ſuſpition, or us of theſe juſt fears, then ſhew your ſelves ſuch Worthies as doe truely deſerve the title, by uſing this happy opportunity, which God hath put into your hands, and making us Free men, it being the maine cauſe for which we uſed, and intruſted you; and as a preſent ſigne of your fidelity and magnani<g ref="char:EOLhyphen"/>mity, let all your reall intentions in the generall appeare, by the exactnes and ſpeedineſſe of your delivery of your own and his Countries ſaith<g ref="char:EOLhyphen"/>full ſervant</hi> JOHN LILBURNE, <hi>from priſon with all due repa<g ref="char:EOLhyphen"/>rations.</hi>
+            </p>
+            <p>I told you before the cauſe of all this trouble in print was for <note n="*" place="margin">Namely <hi>Lilburnes</hi> b<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſoundly ch<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſed for his orbitancy, his ſlande<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and lies, <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſtir<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing up people both words and <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, to Re<gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>lion againſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> PARLI<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>MENT, <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> God <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> preservers.</note> 
+               <hi>Lilburnes</hi> impriſonment, which here the Pamphleter plainly confeſſeth, and ſaith, that <hi>if they will cleare themſelves of the feares,</hi> the Pamphleter and his complices hath, that then they ſhould <hi>ſet at liberty Lieut. Col.</hi> LILBURNE, <hi>And then all Acts for the good of the Subject are ratified and confirmed,</hi> and then they ſhall truely de<g ref="char:EOLhyphen"/>ſerve the title of Worthies, and be Worthies indeed. Into what a further labyrinth of miſery were poor <hi>England</hi> involved, if the Par<g ref="char:EOLhyphen"/>liament ſhould allow and take the advice of theſe malevolent Idi<g ref="char:EOLhyphen"/>ots; certainly, although we are greatly impoveriſhed, and brought low, then we ſhould not faile to become the moſt wretched and abject people in the world; which evill, God divert.</p>
+            <pb n="8" facs="tcp:113745:8"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="9" facs="tcp:113745:8"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="answer">
+            <pb n="10" facs="tcp:113745:9"/>
+            <head>An anſwer to a ſeditious Pamphlet lately in print entituled, * <hi>A PEARL IN A D<g ref="char:V">Ʋ</g>NGHILL.</hi> Written in Defence of that famous Libeller, <note place="margin">
+                  <gap reason="illegible" resp="#APEX" extent="1 line">
+                     <desc>〈1 line〉</desc>
+                  </gap>
+               </note> Li<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut. Col. LILBURNE.</head>
+            <p>SUre the Author of that Dunghill * piece before anſwered, was <note place="margin">
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he juſt man <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>onds.</note> the Author alſo of this ſcurrilous Pamphlet entituled <hi>(A Pearle in a Dunghill)</hi> ſave that this is a little more finely ſpun then the other, He begins thus: <note place="margin">
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o be <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> in an ill ſe is wo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n cower.</note>
+            </p>
+            <p>
+               <hi>Although moſt States and Stateſmen be of late turnd upſide downe, like a wheel<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>; yet this worthy, * valiant and publique ſpirited Gentleman, unto whom this Nation is as much bound to, at leaſt, as unto any one, all things conſidered, is the very ſame man both in principles and practice, <note place="margin">Rom<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> wa<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#APEX" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>.</note> whom the Biſhops ſo long impriſoned in the Fleet, by a moſt cruell and barbarous cenſure, cauſed to be weary of his life; which cenſure they pro<g ref="char:EOLhyphen"/>cured in the Star<g ref="char:EOLhyphen"/>chamber againſt him, and ſo he was whipt, gag'd, and pinni<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n'd, and in his cloſe impriſonment, almoſt famiſhed, and mur<g ref="char:EOLhyphen"/>thered.</hi>
+            </p>
+            <p>This, this is the man that thinketh he indeed hath proved, and that with one Argument of <hi>Lilburnes</hi> quondam ſufferings, that he hath been faithfull to God and his Countrey to the death, in times paſt, and in the ſame ſtedfaſtneſſe remaineth to this day; now therefore that his Country may ſee and know how deeply they ſtand ingaged to the ſaid <hi>Lilburne,</hi> let us ſearch diligently, and ſhew,</p>
+            <p>Firſt, the eminency of the party, the ſufferer.</p>
+            <p>Secondly, the cauſe of his ſo ſuffering.</p>
+            <p>Thirdly, the quality of the paine ſuffered.</p>
+            <p>The diſcovery hereof I know he will exclaime againſt, and ſay, it is a breach of MAGNA CHARTA, according to his won<g ref="char:EOLhyphen"/>ted manner.</p>
+            <p>Firſt then, for the eminency of his perſon, we muſt know, that it is even JOHN LILBURNE, during his minority an Apprentice of
+<pb n="11" facs="tcp:113745:9"/> London, and being of an inſinuating ſpirit, he ende<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>red himſelfe and wan the love of ſome ſilly Schiſmaticks, who for his ſtrange yet empty expreſſions, deemed him one inſpired. So that by that time he came out of his time, and had ſerved his apprentiſhip, who but <hi>Lilburne</hi> of note amongſt the Sectaries, his approbation deſired, and his counſels followed in all things.</p>
+            <p>Secondly, the cauſe of his ſuffering, during the impriſonment of Doctor <hi>Baſtwicke</hi> by the rigorous cenſure of the Prelates, divers perſons affecting the ſaid Doctor, out of their love reſorting to him; amongſt the reſt, one of them tooke <hi>John Lilburne</hi> with him as his aſſociate: after plenty of cheere D<hi rend="sup">r</hi> 
+               <hi>Baſtwick</hi> to ſolace his gueſts, read to them his merry <note n="*" place="margin">A Book<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> laying <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the pride, <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> leachery, <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> abominal <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> acts of the <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ts in <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </note> Lettany, which highly pleaſed them all. <hi>Lilburne</hi> alſo hearing the ſaid Lettany read, and knowing that <hi>Whatſoever was written in defiance of that power, then generally hated, would be very acceptable,</hi> he deſired of Dr <hi>Baſtwick</hi> to have a copy of one of them, with which he would travell beyond Sea, and cauſe it to be printed, not doubting to be enriched by it; the winde of this fancie tranſported him over Sea, accompanied with a fellow whoſe fidelity he doubted not; there he printed many Bookes, and by them got much money, ſelling them even at what rates he pleaſed; afterwards comming into England, bringing with him many Bookes, hoping to have a new Mart, the fellow that accompanied him was his betrayer, who gave information to the then <note n="*" place="margin">William <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </note> Archſhop of <hi>Canterbury,</hi> both where <hi>Lilburne</hi> and his Libels were, who immediately diſpatched a Purſevant with ple<g ref="char:EOLhyphen"/>nary authority, who attached <hi>Lilburne,</hi> and ſeiſed on his Bookes, which were all conſumed with fire. So much for the cauſe of his ſuffering.</p>
+            <p>Thirdly, for the quality of the paine ſuffered, it was no leſſe then pillorying, whipping, gagging, and to ſay truth moſt wicked abuſing of his perſon. Here I beſeech the Reader to take notice, that not onely this Pamphleter, <hi>Lilburnes</hi> vindicator but himſelfe alſo in all his ſeditious Pamphlets maketh it an argument infalli<g ref="char:EOLhyphen"/>ble, becauſe of his cruell handling by the Biſhops, to prove his ex<g ref="char:EOLhyphen"/>traordinary zeale to God, and his Countrey, when it was his affe<g ref="char:EOLhyphen"/>ction to attaine riches, and the deſire of gaine that brought thoſe calamities upon him; for had he ſate at home, and not tranſported himſelfe beyond the Seas to have printed that L<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ttany, or if being
+<pb n="12" facs="tcp:113745:10"/> there he had ſtayed; or elſe, if comming over had left behind him thoſe inſtruments of his deſtruction, Dr <hi>Baſtwicks</hi> Bookes, he had not now been reputed ſo famous a ſufferer for God, and his Coun<g ref="char:EOLhyphen"/>trey: but had remained, as he ſtill is, in the account of all wiſe and truely religious men, a * MECHANICK, FACTIOUS, SLANDEROUS, LYING LIBELLER. <note place="margin">
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>LBURNS ARACTER</note>
+            </p>
+            <p>His Defender goes on,</p>
+            <p>
+               <hi>And now if you will begin to think how a * man ſo faithfull in all his waies, ſhould be ſo liable to trouble, as he hath been, for he hath been di<g ref="char:EOLhyphen"/>vers <note place="margin">Woe unto <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e, ſaith P<gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>phet, <gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> call bl<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ck <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ite, &amp; wh<gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e <gap reason="illegible" resp="#APEX" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>.</note> times in Pur<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ev<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nts hands, and ſo committed by Committees, if you ſhall conſider how this Pearle comes to be caſt upon this Dunghill, you will finde the faithfulneſſe of his heart towards God, and all good people, the ☞ freeneſse of his tongue, againſt all kind of injuſtice, or unworthy<g ref="char:EOLhyphen"/>neſſe, in whom ſoever, is the onely cauſe and no other.</hi>
+            </p>
+            <p>The lying Pamphleter having before told you that the ſuffe<g ref="char:EOLhyphen"/>rings of <hi>Lilburne</hi> in the Prelates daies, was onely for God, and his Countrey, which egregious and monſtrous lie I have already canvaſd; now he propoſeth a Riddle, and asketh how it ſhould come to paſſe, that <hi>a man ſo faithfull in all his waies, &amp;c.</hi> I anſwer, giving my judgement what might be the reaſon thereof, perhaps one reaſon might be, for that he the ſaid <hi>Lilburne</hi> wrote and di<g ref="char:EOLhyphen"/>vulged a ſeandalous Pamphlet, intituled, <hi>An anſwer to NINE ARG<g ref="char:V">Ʋ</g>MENTS,</hi> wherein he intolerably railes againſt our Church, Miniſters, Worſhip, Government, reporting them to be Antichriſtian and Diabolicall; or perhaps it might be for his ſe<g ref="char:EOLhyphen"/>ditious and baſe Libell, entituled, MARTINS ECCHO, or for his malicious and trayterous Libell, entituled, ENGLANDS BIRTHRIGHT, with many other ſeditious and ſcandalous Libels, for which he ought, though his puniſhment were then mitigated, to have ſuffered condign puniſhment, and that after a ſevere manner, by Statutes at Weſtminſter, firſt made 3 <hi>Edward</hi> 1. c. 33. 2 R. 2. c. 5. 12, &amp;c. and <hi>Eliz.</hi> c. 7. it is enacted and ſtreighly defended, upon grievous paine, <hi>That from henceforth none ſhall be ſo hardy to contrive, ſpeake, or ſet forth any falſe newes, lies, or tales, of Pre<g ref="char:EOLhyphen"/>lates, Earles, Dukes, Barons, Nobles, or great men of the Realme, whereby debates, diſcords, or ſlanders may ariſe, between the King and His People, and the Lords, Nobles, and Commons, whereof great perill and miſchiefe might come to all the Realme, and quicke deſtruction,
+<pb n="13" facs="tcp:113745:10"/> if remedie were not provided: and he that ſhall offend herein, ſhall bee kept in priſon untill he hath brought him forth in Court, that firſt did ſpeake and report the ſame, and if he cannot bring him forth, then He ſhall be grievouſly puniſhed according to the nature of the Offence, by the Councell; and all Juſtices of the Peace, throughout every Shire, City and Towne Corporate, are enabled to heare, examine, and determine the ſaid cauſes, and enjoyned to put theſe Lawes in the due execution, that from henceforth condigne puniſhment be not deſerred from ſuch, Offenders.</hi>
+            </p>
+            <p>But now the Pamphleter explaineth his Riddle himſelfe, and ſaith, you finde the cauſe of his trouble, to be (the faithfulneſſe of his heart) ô Sir, you injure him greatly to charge him with that <note n="*" place="margin">The cauſe o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Lilburns</hi> trou<g ref="char:EOLhyphen"/>bles.</note> whereof he is not the leaſt conſcious; but contrary the baſeneſſe and treachery of his heart, againſt God, and his Rulers, BLAS<g ref="char:EOLhyphen"/>PHEMING the one, and CALUMNIATING the other, the freeneſſe of his tongue according to your owne phraſe, in revi<g ref="char:EOLhyphen"/>ling his Lord the KING, of whom he ought not to thinke an evill thought, is the cauſe that brought his former, and preſent calamities upon him, and maketh his name become odible to all vertuous; but let us traverſe the Pamphleter.</p>
+            <p>
+               <hi>And if you ſeriouſly weigh things, you will confeſſe, that it would grieve any good mans heart, that Treachery, Cowardiſe, Cruelty, Plun<g ref="char:EOLhyphen"/>dering, and Covetouſneſſe, have been very ſlenderly puniſhed, and faith<g ref="char:EOLhyphen"/>fulneſſe ſo many wayes diſcouraged, and that it is a very ſad thing, in a time ſo zealouſly pretending</hi> REFORMATION, <hi>that any quiet peo<g ref="char:EOLhyphen"/>ple ſhould be puniſhed and reproached for worſhipping, and ſerving God</hi> 
+               <note n="*" place="margin">A Dom<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſti<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Phraſe.</note> 
+               <hi>according to their Conſcience:</hi> and that TROUBLE<g ref="char:EOLhyphen"/>HOUSE CON<g ref="char:EOLhyphen"/>FORMITIE, as much cryed up, as in the Biſhops times.</p>
+            <p>All wiſe men will ſeriouſly weigh and conſider things as they are, and as they may be caryed, that men in Authority may rule over the bodies of men, but not over their minds, and therefore not able to prevent Treacherie, Cowardiſe, or Cruelty, the committers whereof often eſcape unpuniſht contrary to their will, which if ſo neglected, ought not to be charged on them; &amp; againe that it is not alwayes ſeaſonable to puniſh crimes, though never ſo heynous, and that is when the offenders are <note n="*" place="margin">For ſo the cure may prove worſe then the Di<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>eaſe.</note> potent, a<g ref="char:EOLhyphen"/>ble to withſtand, and perhaps (Their Arme of Fleſh conſidered) over-power their Judges: but it is evident to all the world that ſince the ſi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ting of this PARLIAMENT, they have not been p<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rtial
+<pb n="14" facs="tcp:113745:11"/> in the leaſt regard, witneſſe the two <note n="*" place="margin">The Father and the Sonne, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ho both loſt their heads on <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ower Hill for betraying the <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uſt was repo<g ref="char:EOLhyphen"/>ed in them.</note> HOTHAMS, &amp; never was faithfulneſſe better rewarded then by them who have on the meaneſt ſubject beſtowed honou<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, if found faithful, and have re<g ref="char:EOLhyphen"/>warded each Officer fighting for them according to his Degree, and this is no ſad thing in a time of Reformation, but a glorious Animation to the Juſt: nor are the quiet people puniſhed or re<g ref="char:EOLhyphen"/>proached, for ſerving God, thoſe Diſturbers of Sions Peace, the Sectaries, are only oppoſed, their errors being oppoſite to God, &amp; deſtructive to the Peace of the Kingdome, who if they ſhould be ſuffered, would be an occaſion of the inevitable Ruine and Deſtruction of this Nation; for as long as there were divers Sects, <hi>there would be Diviſion, and a Kingdome divided cannot ſtand:</hi> God himſelfe hath pronounced it, and that without which God can<g ref="char:EOLhyphen"/>not be zealouſly ſerved, nor the Common<g ref="char:EOLhyphen"/>wealth poſſibly pre<g ref="char:EOLhyphen"/>ſerved in peace and tranquillity, which you contemptuouſly and wickedly call <note n="‖" place="margin">The Author of the juſt man <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n bonds.</note> TROUBLE-HOUSE CONFORMITTE is cryed up, for the Reaſons aforeſaid and no other.</p>
+            <p>The Impriſonment of <hi>Lilburn</hi> you muſt know, is a ſore corra<g ref="char:EOLhyphen"/>ſive to the Pamphleter, as erſt to his ‖ Predeceſſor, and therefore he alſo will have a fling at the Houſe of Lords, thus:</p>
+            <p>
+               <hi>And why preſume yee, O yee Lords, thus againſt us, ſet forth your me<g ref="char:EOLhyphen"/>rit before the people, and ſay for this good it is, that wee will Reigne o<g ref="char:EOLhyphen"/>ver you? Remember your ſelves; or ſhall we remember you? which of you before this Parliament, minded any thing ſo much as your Pleaſures, Playes, Maſques, Huntings, Feaſtings, Gamings, with the Appurte<g ref="char:EOLhyphen"/>nances? If you owed any man money, or abuſed any man, what Law was to be had againſt you, what Patents and Projects did you ſuppreſſe, or ſo much as move againſt, nay had not an hand in? What fearfull enemies were you to Ship-money, &amp; to the proceedings of the High Commiſſion, Star Chamber and Councell Board? indeed your goodneſſe was unexpreſ<g ref="char:EOLhyphen"/>ſible, and undiſcernible, before this Parliament.</hi>
+            </p>
+            <p>The audacious and impudent Pamphleter, not conſidering the Lords <note n="*" place="margin">Thou ſhalt <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ot ſpeak evill of the Ruler of <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y people.</note> comma<g ref="char:cmbAbbrStroke">̄</g>dement, chargeth the honourable Houſe of Peeres with an heap of known falſities, he taketh in hand to ſhew, that before this Parliament began, they were no other then perſons giving themſelves over wholly to pleaſure, and that they plaid <hi>Rex</hi> over the people, doing with them as they liſted, that in ſtead of ſuppreſſing, they cauſed to be extorted thoſe unknowne vaſt lones of money levied by the terme of Ship-money, that they
+<pb n="13" facs="tcp:113745:11"/> were the upholders of thoſe tyrannizing Courts, the High Com<g ref="char:EOLhyphen"/>mi<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ion, the lively Effigies of the <hi>Spaniſh Inquiſition,</hi> Star-Cham<g ref="char:EOLhyphen"/>ber, and Counſell board, &amp;c. It is knowne to all men, not wil<g ref="char:EOLhyphen"/>fully blinde; for there is a ſort of men that ſee, and will not; ſuch is this our Pamphleter and his Complices, that the Lords in generall, I meane thoſe now aſſembled in Parliament, were ere this Parliament was thought on, men renowned through the world, men ſingularly vertuous, men fearing God and eſchew<g ref="char:EOLhyphen"/>ing evill: and what though they beheld Maſques, do not all wiſe men know, that a Morall Maſque is profitable to ſee? and though to the unlearned, who may refraine the ſight of them, they ſeem Riddles, and Nulls, yet to the knowing, who are able to explaine the ſenſe and meaning, and to crack the ſhell, they finde a ſweet and pleaſant kernell: and whereas you taxe the uſe of Hawking, Hunting, and ſuch like Princely ſports, it were a ſin for them to refraine; but to uſe them, no ſin at all, the whole ſcope of their Intentions, uſing the ſaid Games, being for the Recreation of their bodies, by which they become lively, and are more apt and able to ſerve their Maker, and to manage the Publike Affaires to which the Lord hath called them.</p>
+            <p>And it is alſo very well known, that the Lords now Aſſembled in Parliament, were the happy Inſtruments of procuring a grant for a Parliament; their Inventions in ſo doing, wholly out of zeale towards God, and love to their Countrey, that the wor<g ref="char:EOLhyphen"/>ſhip of the one, then too much corrupted, might be purified and refined, and the burthens under which the other groaned to be taken off; and is this their Reward, ô yee unſtable, ungrate<g ref="char:EOLhyphen"/>full, and giddy Sectaries, whoſe tongues are ſet on fire of hell, to maligne and vilifie thoſe that are the moſt upright, and for whom ye ought to bleſſe the Lord, as being, part of thoſe Inſtru<g ref="char:EOLhyphen"/>ments to get for you, with the hazzard of their lives and ſtates, the worſhip of God, according to the purity thereof, that Liber<g ref="char:EOLhyphen"/>ty and Freedome which your Fore<g ref="char:EOLhyphen"/>fathers have ſighing wiſhed for, but could never attaine? but oh the wickedneſſe, wilfulneſs, and pride of heart that is in ſome, that they rather then loſe one jot of their new fancied Liberty, (indeed a ſlavery, would they duly conſider it) chuſe to be guilty, both of their owne, and an whole Nations fall; Beſides, are there not Thouſands, whoſe <note n="*" place="margin">The Royall party.</note> vanquiſht Perſons live in hope, to ſee the ſecond part
+<pb n="16" facs="tcp:113745:12"/> of the deſtruction of <hi>Germany</hi> acted in <hi>England.</hi> And that the hatred now betwixt the Independents and Presbyterians, will prove as fatall, as whilome that bloudy <note n="*" place="margin">The occaſion whereof was two <hi>German</hi> Brethren, the one whereof mantained the Popes honour to be above the Emperors, the other aver<g ref="char:EOLhyphen"/>red the Empe<g ref="char:EOLhyphen"/>rours dignity exceeded the Popes; where<g ref="char:EOLhyphen"/>upon they fought, and the one ſlew the o<g ref="char:EOLhyphen"/>ther. Their quarrell was ſpread through out all <hi>Italy.</hi>
+               </note> Diffention betwixt the <hi>Guelfes</hi> and <hi>Gibellines:</hi> the enormities that attend DISSEN<g ref="char:EOLhyphen"/>TION, the moſt excellent Poet VIRGIL admirably deſcribeth, where he maketh <hi>Iuno</hi> ſeake to <hi>Alecto. Aeneidos lib.</hi> 7. ſaying,</p>
+            <lg>
+               <l>
+                  <hi>Tu potes unanimes armare in Praelia Fratres,</hi>
+               </l>
+               <l>
+                  <hi>Atque odiis verſare Domos, tu verbera tectis,</hi>
+               </l>
+               <l>
+                  <hi>Funereaſque inferre faces; tibi nomina mille,</hi>
+               </l>
+               <l>
+                  <hi>Mille nocendi Artes, Faecundum concute pectus,</hi>
+               </l>
+               <l>
+                  <hi>Disjice compoſitam pacem, fere crimina Belli,</hi>
+               </l>
+               <l>
+                  <hi>Arma velit poſcatque, ſimul rapiatque juventus.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>Engliſhed.</head>
+               <l>Thou canſt beloved Brethren, force to jarre,</l>
+               <l>And overturne whole Families by War,</l>
+               <l>And caſt from houſe to houſe, combuſtious fire,</l>
+               <l>Take thee a thouſand ſhapes, falſe names acquire,</l>
+               <l>And thou a thouſand Fallacies canſt uſe,</l>
+               <l>Then ſearch thy ful ſwolne breaſt, turne to abuſe</l>
+               <l>Their Peace agreed on, ſow tho<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſeeds of Ill,</l>
+               <l>Their youthes doe long each others bloud to ſpill, &amp;c.</l>
+            </lg>
+            <p>But we have yet more of the devills language, who no doubt Dictated to the Pamphleter, as hee hath often done to <hi>Lilburne,</hi> and his complices, and it is worth your obſervation that Satan by his <hi>Deluſions</hi> maketh them to bee the props, and ſtayes of his now tottering Kingdome; for he perceiveth, and gnaſheth his teeth for ire, that the power of thoſe, whoſe Innovations ſet up, cauſed many thouſands to fall, who ere they could recover themſelves, were plunged in the depth of Abyſſe; and that now the ſpirit of truth ſo prevaileth, that Gods true worſhip is like to be erected, according to the originall purity; He now therefore, the power of Hell aſſiſting him, tryeth all the wayes, to hinder and impede ſo glorious a worke; he therefore hath di<g ref="char:EOLhyphen"/>ſpatched his Agents abroad, giving them commiſſion to enter in<g ref="char:EOLhyphen"/>to the hearts of all, void of the Spirit of grace, and to cauſe them both by writing, and ſpeaking to calumniate, and as farre as in them lyeth, make odible the perſons of thoſe who are the chie<g ref="char:EOLhyphen"/>feſt
+<pb n="17" facs="tcp:113745:12"/> Inſtruments of Gods glory; and then without doubt their Perſons hated, their <hi>Performances will not be acceptable,</hi> this will cauſe contention, and, <hi>Divide &amp; Impera,</hi> according to <hi>Machiavil, Divide, and prevaile.</hi> But thou that ruleſt <hi>Behemoth,</hi> who laugh<g ref="char:EOLhyphen"/>eſt at the ſtrength of man, put thy hook in his noſtrills, and ſave thy people by thy ſtrong Arme.</p>
+            <p>Now the Pamphleter citeth an Adage comparatively.</p>
+            <p>
+               <hi>It was wont to be ſaid, when a thing was ſpoyl'd, that the</hi> Biſhops foot had been in it: <hi>and if the Lords mend not, it will be ſaid ſo of them, and juſtly too.</hi>
+            </p>
+            <p>It was wont to be ſaid <hi>(A Fooles Bolt is ſoone ſhot.)</hi>
+            </p>
+            <p>
+               <hi>And, what other have the Lords ever been, then a Clog to the Houſe of Commons, in all their Proceedings? How many neceſſary things have they obſtructed, how many evill things promoted? what devices have they had of Prudentialls, and expedients, to delay and pervert what is good; and ſubtle Policies to introduce things evill?</hi>
+            </p>
+            <p>It hath ever been the cuſtome of Libellers, and calumniators, when they groundleſly ſlander, to cite things by the whole, not bringing proof of any one thing: ſo here the lying Pamphleter taxeth the Lords, &amp; nameth not when, where, or how they deſer<g ref="char:EOLhyphen"/>ved; the reaſon you may gheſſe, (he cannot) &amp; indeed envy itſelf cannot challenge the honour'd Lords of the leaſt corruption; I meane, in the way of hindring any one Act for the good of the Subject; nay rather have they not, ere ſince the time of their fit<g ref="char:EOLhyphen"/>ting, and paſſing through this fiery Furnace, as I may ſo ſay, of their oppoſing the Royall party, been the Agents to procure ma<g ref="char:EOLhyphen"/>ny Orders for the good of the Subject? can any ſay that they have held back, or refuſed to ſubſcribe to any one paper ten<g ref="char:EOLhyphen"/>ding to the good of the Subject? and for their introducing of evill, which the Railing Pamphleter taxeth them of, the mea<g ref="char:EOLhyphen"/>neſt capacity may perceive; and all Loyall ſubjects will hiſſe at ſo impudent a Lie.</p>
+            <p>Now you muſt know the Pamphleter, in his own conceit ha<g ref="char:EOLhyphen"/>ving ſufficiently vindicated <hi>Lilburne;</hi> he flyeth high, and hyper<g ref="char:EOLhyphen"/>bolically ſaith,</p>
+            <p>
+               <hi>Thou doſt well, ô England, to give up thy firſt borne</hi> Lilburne, <hi>the ſon of thy ſtrength, and high Reſolution for Freedome, If thou intendeſt to become a Bond<g ref="char:EOLhyphen"/>ſlave to either King, Lords, or any others; for hee will never ſubmit either body or minde to any kinde of ſlavery.</hi>
+            </p>
+            <pb n="18" facs="tcp:113745:13"/>
+            <p>
+               <hi>Lilburne</hi> in priſon, <hi>hinc Dolor, hinc Lachrymae;</hi> and therefore to incite the Commons, if it might be, to riſe againſt his Judges, he maketh them intereſſed in his cauſe; Alas Sir this wil not do, the <hi>dearly beloved inimitable unparallel'd Libeller,</hi> muſt have the reward of his merits. While <hi>England</hi> will ſit ſtill and ſee, not the <hi>Sonne</hi> of her <hi>Strength,</hi> but the <hi>Son</hi> of her <hi>Shame,</hi> and <hi>Sorrow,</hi> brought to condigne puniſhment; nor doth ſhe feare that thereby Her bon<g ref="char:EOLhyphen"/>d<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ge wil be aggravated, knowing that ſuch are the <hi>Bands</hi> that tie her hands &amp; feet, not ſuffering her to atchieve that which would prove to her everlaſting Benefit, and honour: and ſhe knoweth right-well, that he that hath already ſubmitted himſelfe, and is become a Bond-ſlave to the devill, to put in Act what ever hee ſhall whiſper to him, cannot be the Agent to procure her Infran<g ref="char:EOLhyphen"/>chiſement, Liberty, ſhe fits and beholds with joy the unequall'd proceedings of her two Houſes of <hi>Parliament,</hi> and having the ſpirit of diſcerning, lamenteth the errors, hereſies, blaſphemies of the time, taking into conſideration thoſe <note n="*" place="margin">A lively de<g ref="char:EOLhyphen"/>ſcription of theſe times.</note> 
+               <hi>verſes</hi> of the <hi>Poet,</hi> that,</p>
+            <lg>
+               <l>
+                  <hi>Now for truths matters, there is much adoe,</hi>
+               </l>
+               <l>
+                  <hi>Some this, ſome that, ſome none of both wll have.</hi>
+               </l>
+               <l>
+                  <hi>And yet they ali doe reſtleſſe Fortune woe</hi>
+               </l>
+               <l>
+                  <hi>To yeeld to neither, yet doe either crave</hi>
+               </l>
+               <l>
+                  <hi>In worlds behalfe, or Fleſhes fixt thereto,</hi>
+               </l>
+               <l>
+                  <hi>They all in ſhew doe ſeek the truth to ſave.</hi>
+               </l>
+               <l>
+                  <hi>And all ſeem, to ſollicite Sions cauſe,</hi>
+               </l>
+               <l>
+                  <hi>Which they would have confirmed by the Lawes.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Some ſay they lye, that onely truth doe teach,</hi>
+               </l>
+               <l>
+                  <hi>Some envy them that live by teaching ſo,</hi>
+               </l>
+               <l>
+                  <hi>And at their lives and livings ſeem to reach,</hi>
+               </l>
+               <l>
+                  <hi>Which they forgive, but will not ſo forgoe:</hi>
+               </l>
+               <l>
+                  <hi>"Some tongues defend the Truth which they doepreach,</hi>
+               </l>
+               <l>
+                  <hi>"Whoſe Actions give her many a bitter blow:</hi>
+               </l>
+               <l>
+                  <hi>"Some live as Dying, while they ſeek to live,</hi>
+               </l>
+               <l>
+                  <hi>"And ſome Dye living, yet doe moſt relieve.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Some</hi> 
+                  <note n="*" place="margin">Independent.</note> 
+                  <hi>Lyers doe call carnall liberty,</hi>
+               </l>
+               <l>
+                  <hi>The glorious liberty of Truths deare Sonnes.</hi>
+               </l>
+               <l>
+                  <hi>And her they urge to prove that verity;</hi>
+               </l>
+               <l>
+                  <hi>But Truth's betray'd by ſuch untruſty ones,</hi>
+               </l>
+               <l>
+                  <hi>That Sacriledge doe guild with ſanctity,</hi>
+               </l>
+               <l>
+                  <hi>Yet for that look for high promotions.</hi>
+               </l>
+               <l>
+                  <hi>"O' tis a world of miſchiefe, when pretence,</hi>
+               </l>
+               <l>
+                  <hi>"Doth ſhroud a world of Inconvenience!</hi>
+               </l>
+            </lg>
+            <pb facs="tcp:113745:13"/>
+            <p>But whereas the Pamphleter ſaith that <hi>Lilburn</hi> will never ſub<g ref="char:EOLhyphen"/>mit either body or mind to ſlavery, he inſinuateth that ſome are ſlav'd: O the incorrigibleneſſe of ſome, if they may not do what, ſay what, attempt what they liſt, they cry out they are vaſſaliz'd and trod on, <hi>Magna Charta</hi> is ſlighted, &amp; the liberty of the Sub<g ref="char:EOLhyphen"/>ject infring'd! But ſure the time will come, that theſe men, that doe and ſay what they liſt, and ſhould not, ſhall be forced to un<g ref="char:EOLhyphen"/>dergoe what they ought, and would not: and now the Pam<g ref="char:EOLhyphen"/>phleter having railed ſufficiently on the Lords, whoſe innocen<g ref="char:EOLhyphen"/>cy is above his calumnies, hee inſinuateth with the Commons, promiſing himſelfe that, which were a wonder to ſee.</p>
+            <p>
+               <hi>But certainly thoſe Worthies in the Houſe of Commons, that conſider what the people have done, and ſuffered for their liberties, will never ſuffer ſo foule a deed: it cannot be, but they intend the uttermoſt</hi> 
+               <note n="*" place="margin">Juſt freedom is ſo farre as is conſiſtent with the fundamen<g ref="char:EOLhyphen"/>tall Lawes of this Kingdom: which prohi<g ref="char:EOLhyphen"/>biteth tolera<g ref="char:EOLhyphen"/>tion of crimes under pretence of libertie.</note> 
+               <hi>of juſt Freedome to the people, and love thoſe beſt that moſt know and affect true Liberty, and are greateſt oppoſers of exorbitant power, in whomſoever, and conſequently cannot, but inſtantly deliver all juſt men, and hence<g ref="char:EOLhyphen"/>forth reduce the Lords Condition, ſuitable to the Freedome of the People.</hi>
+            </p>
+            <p>To fill up his meaſure of evill, hee concludeth his Pamphlet with confidence, that the Houſe of Commons will intrench up<g ref="char:EOLhyphen"/>on the Priviledge of the Lords, and deliver him whom they have caged: but Sir, your hopes deceive you, for the Honourable Houſe of Commons will not but maintaine, as they ought, the Priviledge of the Houſe of Peers, even as they have hitherto, both Houſes having mutually and unanimouſly proceeded with<g ref="char:EOLhyphen"/>out the leaſt perturbation. For ſhould thoſe happy workmen diſagree, that glorious and ſolid Fabrick, which with ſo much coſt and paine hath been erected, would not only be left unfini<g ref="char:EOLhyphen"/>ſhed, but alſo would be in danger to be utterly demoliſhed; But the Higheſt divert ſo great a miſchiefe, and let not ô Lord our many and crying ſins pull downe ſo heavy and fatall a judgment! The P<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>idiculous Pamphleter proceedeth in his madneſs, and hol<g ref="char:EOLhyphen"/>deth it convenient the Lords ſhould be reduced: but his combu<g ref="char:EOLhyphen"/>ſtible matter I have ſo moiſtned, that it ſhall never be able to take fire. <hi>The mouth of the juſt ſhall be fruitfull in Wiſedome, but the tongue of the froward ſhall be cut out,</hi> Prov. <hi>chap.</hi> 10.</p>
+         </div>
+         <div type="answer">
+            <pb n="20" facs="tcp:113745:14"/>
+            <head>An anſwer to a Libell INTITULED A Remonſtrance of many thouſand Citizens, and other free-borne people of <hi>England,</hi> to their own Houſe of Commons.</head>
+            <p>
+               <seg rend="decorInit">T</seg>His REMONST<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ANCE was not penned by <hi>L<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>burn,</hi> but whoever he be that penned the ſame, * his <note place="margin">† Lilburne.</note> ſpirit was doubled upon him, and it may fitly bee termed the maſter piece of wickedneſſe, and the ve<g ref="char:EOLhyphen"/>ry quinteſſence of baſeneſſe, the contents whereof is able to infect the unſetled, and to cauſe the plague of Diſſention to reigne, as hot as ever before: but I ſhall make known a ſove<g ref="char:EOLhyphen"/>raign Antidote, that if any be already infected, they may by rea<g ref="char:EOLhyphen"/>ding my lines, God willing, receive preſent and perfect cure, and it will be a preſervative alſo to prevent the further ſpreading and encreaſe thereof.</p>
+            <floatingText xml:lang="eng" type="quotation">
+               <body>
+                  <head>Heare the Libeller.</head>
+                  <p>
+                     <hi>We are well aſſured, and ye cannot forget, that our chuſing you to be<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Parliament Men, was to deliver us from all kind of bondage, and to pre<g ref="char:EOLhyphen"/>ſerve the Common-wealth in Peace and Happineſſe, for effecting where<g ref="char:EOLhyphen"/>of, we poſſeſſed you with the ſame power, that was in our ſelves, to have done the ſame, for we might have done it our ſelves without you, if we bad thought ſo convenient, chuſing you as perſons whom we thought fitly qualified, and faithfull, for avoiding ſome inconveniences.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <p>What hath bereft you of your former confidence, the wicked<g ref="char:EOLhyphen"/>neſſe of your owne ſpirits will not ſuffer you to participate of that good which is providing: the men ye have choſen, have not failed to performe their duty in a Parliamentary way: and God hath ſo aided them, that they have outdone example: the bon<g ref="char:EOLhyphen"/>dage, were it a bondage, you ſo ſorely exclaim againſt, is taken off, and the peace and happineſſe you ſeeme to deſire, there is
+<pb n="21" facs="tcp:113745:14"/> great hopes to injoy had it not beene for your owne curſed Pro<g ref="char:EOLhyphen"/>ceedings, Lyings, and Slandering the Authors of your Good, you might have now beene in better ſtate then you are, and yee have ſhewed your ſelves unworthy of that Good, got and gaining for you, by your continuall Debates and Dangerous ſpeeches, and as if you were weary of mercies by threatning, That if you have not all, even to a tittle, that your erring Fancies deſire, you will by your owne ſtrength procure it. Now, whereas you Boaſt, that had you thought it convenient, yee your ſelves could have accompliſht your wiſh. Vaine men, though it be poſſible, you may be of Abilitie ſuf<g ref="char:EOLhyphen"/>ficent to meaſu<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Cloth, and to keepe a Booke, your ſummes be<g ref="char:EOLhyphen"/>ing vaſt, and unknowne, yet with BAKERS Ayde you can ſubſtract and multiply, and give the <hi>Summa totalis;</hi> yet to manage the Affairs of a Kingdome is too high for you, and had not the HIGH-COM<g ref="char:EOLhyphen"/>MISSION COURT beene ſuppreſſed till by you, we might ſtill have beene cited before a Judge, bearing both Swords as before: it hath alwayes beene the cuſtom of wicked and ungratefull men, ſuch as your ſelves, the good once attained, to ſlight the procurers there<g ref="char:EOLhyphen"/>of; did you want that you now have? O how acceptable would the leaſt of thoſe mercies be, of which yee now ſurfeit! and yee ought to know, that mercies abuſed are often by the Almightie turn'd in<g ref="char:EOLhyphen"/>to ſcourges, for the ſmart of the wicked and ungratefull.</p>
+            <p>
+               <hi>But, how yee have dealt with us, we ſhall now let you know, and</hi> 
+               <note n="*" place="margin">
+                  <gap reason="illegible" resp="#APEX" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap>
+               </note> 
+               <hi>let the Righteous GOD Judge betmixt you and us, the continuall oppreſſors of this Nation have been Kings which <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſo evident that you cannot deny it.</hi>
+            </p>
+            <p>Did you as you ought, you would let them know, how they had dealt with you by preſenting your ſelves to them in all Humility, and acknowledge with all Thankfulneſſe, that They have under God beene the preſerve<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> both of your lives and ſtates: but yee are an unſtable wavering-minded people, never contented in one ſtate; ſelfe-conceited you are, and lea<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e ſo much upon that broken ſtaffe of Reed, your wit, that it will be a meanes at length, even to pierce you through; Raſh you are, and your Ignorance ſputting you on, yee affect <hi>Things Inconvenient,</hi> and <hi>DESTRUCTIVE TO</hi> yours <hi>SELVES.</hi> And whereas you ſay the continuall oppreſſo<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s of this, Nation have beene KINGS, I anſwer, you commit a grievous ſinne, to averre ought contrary to your knowledge: if yee have Read the Chronicles of this Kingdom you will find that the <note n="*" place="margin">&amp; <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </note> Kings of this Iſle, and that for the major part, have beene nurſing Fathers
+<pb n="22" facs="tcp:113745:15"/> and Mothers, under whoſe peaceable and happy Government, the people of this Land have ſate each man under his figge tree, pray<g ref="char:EOLhyphen"/>ſing God, and praying for their King: If yee ſhall Aske what were the names of thoſe KINGS, ſo good and Gracious, I anſwer, before the Conqueſt many, as EDMUND, EDGAR, ATHELSTANE, &amp;c. Since the Conqueſt, <hi>Henry</hi> the third, <hi>Henry</hi> the fifth, <hi>Henry</hi> the ſeaventh, and his Son; <hi>Henry</hi> the eighth, <hi>Edward</hi> the ſixth, graci<g ref="char:EOLhyphen"/>ous * Queene <hi>Elizabeth,</hi> King JAMES, with divers others, whom <note place="margin">
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>egina. inarum.</note> for brevities ſake I omit, ſome of Them having augmented the Bounds of their Kingdome, ſtriving to make Their Nation glori<g ref="char:EOLhyphen"/>ous and great; others have ſtrove to maintaine what your fore<g ref="char:EOLhyphen"/>fathers have got, executing Juſtice and Judgement: and in truth, never no Nation had more cauſe to boaſt, of the Valour, Pietie, and good Government of their Kings then the Engliſh Nation; nor hath our DREAD SOVERAIGN LORD KING CHARLES, beene Inferiour to His Pious Predeceſlours in the leaſt reſpect, who for the ſpace of 17 yeares, ere ſeduced by ſome pernicious and vile <hi>A Spencers,</hi> Governed His People in Peace, and under Him They <note place="margin">
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lluding <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Father the Son, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t Edward ſecond ſo <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dly affect<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> that he <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ooke the <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>inſell of Counſel<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ts, and was <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lly Ruled <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>heir gid<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ancies, to unſpeak<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> trouble <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> vexation <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he whole <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lme.</note> Injoyed much Felicitie, and ſo may againe, this Prodigious and terrible ſtorme o're-blown; but let us returne to the Libeller.</p>
+            <p>
+               <hi>And yet yee cannot fight for our Liberties, but it muſt be in the name of</hi> KING <hi>and</hi> PARLIAMENT, <hi>and He, that ſpeakes of His cruelties, muſt be thruſt out of your Houſe, your Preachers muſt pray for him, as He had not deſerved to be Exco<g ref="char:cmbAbbrStroke">̄</g>municated all Christian ſocietie, or, as if you, or They, thought that GOD were a Respecter of Perſons in Judgement.</hi>
+            </p>
+            <p>The Honourable Hcuſes of Parliament eſteeme it not a poynt of Libertie to Fight the Kings Battels, and except His name; the Royall Partie having perſwaded the King to Deſtructive courſes, he, ruled by them, fought againſt His PARLIAMENT; His Parliament, to main<g ref="char:EOLhyphen"/>tain the Libertie of the Subject, their own Rights &amp; Priviledges, and to Reſtore His Majeſtie to that honour and ſtate He was in, are ſe<g ref="char:EOLhyphen"/>duced, fight againſt thoſe their oppoſers; and is it not convenient for Them then, He being the Head, they the Members, to have His name mentioned, for whoſe honour They fight, as for Their owne Rights?</p>
+            <p>Kings are but men, and have Their paſſions and failings as well as others: and moreover, a great and weightie Burthen lyes on Their ſhoulders, which Subjects doe not conceive; and according to the Poet,</p>
+            <lg>
+               <pb n="23" facs="tcp:113745:15"/>
+               <l>Crownes are but hives, where ſtinging cares doe ſwarms,</l>
+               <l>Pompes but the whites, where at fell envy ſhoots,</l>
+               <l>Which are as Trees, whence grow their owners harme,</l>
+               <l>Harmes are the fruit, Crownes, Flowers, &amp; Kingdoms Root.</l>
+               <l>The Arme of fleſh is but a feeble Arme,</l>
+               <l>And in ſuch ſtrong extremes it little Boots:</l>
+               <l>He knowes not yet the Nature of a Crowne,</l>
+               <l>That knowes not Kings may be by ſtrength o'ret hrowne.</l>
+            </lg>
+            <p>And foraſmuch as we are perſwaded, that thoſe evill Counſellours were the onely cauſe and Fountaine whence our ſorrowes have ſlowed, and that we know, and have cauſe to believe, conſidering His Majeſties frequent and pithy expreſſions, His heartie deſire of Compliance with His Parliament, &amp; of ſetling a firme &amp; wel-groun<g ref="char:EOLhyphen"/>ded Peace: Is it fit that any ſhould ſpeak lightly, or Revile our Lord, whoſe after-Reigne, we hope, will prove more glorious then <hi>H</hi> is former? Why ſhould we Doubt, the Evill being taken away, but <hi>H</hi> is Throne ſhall be eſtabliſhed in Peace? Why ſhould not the Miniſters of God, Nay, have they not ample Reaſon therefore, as they prayed once for <hi>H</hi> is Converſion, now to give thanks for <hi>H</hi> is being Conver<g ref="char:EOLhyphen"/>ted? And though God, its true, be no Reſpecter of Perſons in Judge<g ref="char:EOLhyphen"/>ment, it followeth not that we ſhould imitate our Maker in that, for he commandeth by his Apoſtle, ſaying; FEARE GOD, HO<g ref="char:EOLhyphen"/>NOUR THE KING.</p>
+            <p>
+               <hi>And have yee ſhooke this Kingdome like an Earth-quake, to produce no more then this for us? Is it for this that yee have made ſo free uſe, and beene bold with our Eſtates? And doe you, becauſe of our Readi<g ref="char:EOLhyphen"/>neſſe to comply with you in All Things, eſteeme us ſo ſottiſh as to be con<g ref="char:EOLhyphen"/>tented: with ſuch unworthy Returnes of our truſt and love? No, it's high time to be plaine with you: We ARE not, SHALL not be ſo con<g ref="char:EOLhyphen"/>tented: We doe expect in the firſt place, that you ſhould Declare and ſet forth KING CHARLES His wickedneſſe openly before the world, and withall, to ſhew the Intollerable inconvenience of Kingly Government, from the constant evill Practiſes of thoſe of this Nation, and to Declare KING CHARLES an enemy, and to publiſh your Reſolution never to have any more, but to Acquit us of ſo great a Charge and trouble for ever, &amp; to convert the great Revenues of the Crown to the publike trea<g ref="char:EOLhyphen"/>ſure, to make good the injuries and injustices done hereofore, and of late by thoſe that have poſſeſſed the ſame; and till this he done, we ſhall not think our ſelves well Dealt withall in this originall of all oppreſſions, to wit, KINGS.</hi>
+            </p>
+            <pb n="24" facs="tcp:113745:16"/>
+            <p>That this Nation hath of late beene ſorely ſhaken it is moſt true; and had not Gods mercy ſurpaſſed <hi>Englands</hi> Deſerts, it had beene ſhaken to pieces: but this ungratefull Libeller Asketh, (And is it for this?) for what your fore-fathers would have ſacrificed Their Lives with Joy: <hi>Had</hi> they but hoped Their Poſteritie after Them ſhould have gained thoſe rare Immunities and Freedomes which your ſelves now doe, and are like to Injoy; the Government by Prelates Aboliſht, the High-Commiſſion, Star-Chamber, all Courts grinding the Faces of the poore ſuppreſt, the Feares of a Combination with Forraigne States taken away, by the Diſpoſing of the <hi>Mil<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tia</hi> into truſtie hands, ſuch as the Commons ſhall con<g ref="char:EOLhyphen"/>ſide in, with many other Remarkable priviledges; and are yee ſo unthankfull yet to ſay (IS IT FOR THIS?) And whereas you menacing Boaſt, That you ARE not, nor SHALL not be ſo con<g ref="char:EOLhyphen"/>tented, your Eſtate is to be Deplored, that you are ſo voyd of. grace and Reaſon, than the Sword hath yet a hope to be handled by you: and is it not ſufficient for you to Ruine your ſelves, but you muſt alſo ſeek the Deſtruction of the whole Nation? For you pro<g ref="char:EOLhyphen"/>poſe, that King CHARLES ſhould be Proclaimed an Enemy; could we acquit our ſelves of our Oaths, and the Fidelitie we owe to our Soveraigne, yet policy would per ſwade us to work more Diſcreetly, (and not involve in a new warre, a Nation almoſt Diſpoyled) for wee muſt know, that the Princes of the Royall blood will not ſit ſtill and ſee Themſelves Robbed of their Birth-right; neither com<g ref="char:EOLhyphen"/>meth, I am ſure, ſo vile a thought into the heart of any Member of Parliament, whoſe frequent expreſſions have beene, and ſtill are, in all meekneſſe and Humilitie, to deſire the King, the ſpirit of Diſ<g ref="char:EOLhyphen"/>affection abandoned, to Returne to His Charge, and by Their meanes, God aſſiſting, become a greater, a more glorious and Po<g ref="char:EOLhyphen"/>tent Prince then before; all wiſh I hope, to ſee effected, to the re<g ref="char:EOLhyphen"/>joycing of all Verru<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>us and to the ſhame and conſounding of coun<g ref="char:EOLhyphen"/>tenance of all Malevolent wicked Sectaries, that King and Subjects may Rejoyce in each other, the one ſeeking nothing but the others welfare, and all, that All Feares and Jealouſies layd aſide the Subjects of this Kingdomes, each man following the workes of his calling, ſubmitting themſelves, as they are deſired by S. <hi>Paul,</hi> and that <hi>for the Lords ſake,</hi> not denying to yeeld <hi>Caeſer</hi> his lawfull tribute, fol<g ref="char:EOLhyphen"/>lowing the example of their Saviour, knowing, The more he hath,
+<pb n="25" facs="tcp:113745:16"/> the better he ſhall be enabled to withſtand his and their enemies: To this purpoſe, one of our moderne Poets ſaith excellently;</p>
+            <lg>
+               <l>For thine and mine, and mine and thine, are things,</l>
+               <l>Not for to be' twixt Subjects and their Kings;</l>
+               <l>Princes; like the Sun, ſhould from the earth exhale</l>
+               <l>The wealth they raiſe therein, and let it fall</l>
+               <l>In every place, as they have cauſe, a share,</l>
+               <l>And not conſume it like the wanton Heyre;</l>
+               <l>Their full Exchequers muſt like Conduits be,</l>
+               <l>Open to all, to rich and poore like free:</l>
+               <l>And Subjects ſhould, like Fields be full of Springs,</l>
+               <l>And naturally ſhould fall towards their Kings:</l>
+               <l>The Common wealth ſhould alwayes be in motion,</l>
+               <l>Seas fall to Brookes, and Brookes ſhould to the Ocean:</l>
+               <l>Such Royall, and ſuch Loyall community,</l>
+               <l>Keep King and Subjects ſtill in unity.</l>
+            </lg>
+            <p>And whereas you deſire the Houſe of Commons to publiſh their Reſolution, never to have Kings more; what ſpirits of Debate filleth your breaſts, and with what ſuries are you inraged, that you dare be ſo bold, to propoſe a matter of high concernment. which if but for civill reſpects as aforeſaid, ought not to be hearkned to? your peremptorineſſe ought to be puniſhed ſeverely, that inſtiga<g ref="char:EOLhyphen"/>ted by Satan, goe about to diſturbe now our almoſt ſetled people, who deſire to live in ſubjection to God and their King, as they are bound by Oath and Convenant; and till your rebellious and deſtru<g ref="char:EOLhyphen"/>ctive deſires are accompliſht, you threaten, that you ſhall not bee contented; why then remaine in your obſtinacie, untill the rode that you have gathered, laſh you ſeverely, while yee ſhall be repu<g ref="char:EOLhyphen"/>ted of all wiſe and loyall men, a ſort of Traytors, Blaſphemers, and curſed perſons.</p>
+            <p>
+               <hi>But yee have liſtned to any counſels, rather then to the voyce of us that truſted you; why is it that yee have ſtopt the Preſſe, but that yee would have nothing but pleaſing and <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lattering Diſcourſes, and goe on to make your ſelves partakers of the Lordſhip over us, without hearing any thing to the contrary?</hi>
+            </p>
+            <p>The Pamphlet ſwelleth more and more with <note n="*" place="margin">Alluding the place where the Prophet David, ſpeaking of the wick<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſayings of h<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> enemies, ſai<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <hi>The porſon of Aſpes is und<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> their ups.</hi>
+               </note> poyſon and here it burſteeth forth, able to infect the ayre: have the Houſe of Commons hearkned to any counſels, but what given amongſt themſelves, the effect and iſſue of their counſells and conſulations, wee ſee and
+<pb n="26" facs="tcp:113745:17"/> ought to rejoyce at; but O, here's the cut that divideth the very hearts of the Sectaries, the Preſſe is ſtopt, they cannot print Pam<g ref="char:EOLhyphen"/>phlets, the contents whereof is more full of lyes then a Dogge of <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>leas; they cannot blaſpheme God, and revile their Soveraigne in Print, as they would; and becauſe the Commons (in Parlia<g ref="char:EOLhyphen"/>ment) have done this, to wit, SHUT UP THE PRESSE: They have not hearkned to their counſels, but go on to make themſelves Lords over them; I<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> SATAN CAST OUT SATAN, HOW SHALL HIS KINGDOME STAND; ſee the ſimplicity of the Libeller: ſhould the COMMONS GO ABOUT TO ABRIDGE THE COM<g ref="char:EOLhyphen"/>MONS LIBERTY? ſhould they not thereby limit themſelves, and goe about to procure their owne bondage? Reaſon will perſwade all men the contrary; but let us ſtill trace the Libeller, who now is arrived at the height of impudencie.</p>
+            <p>
+               <hi>You have now ſate full five yeeres, which is foure longer then we in<g ref="char:EOLhyphen"/>tended, for we could c<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uſe you but at moſt for one yeer; and now we wiſh you would publiſh to the world the good you have done for us, the liberty yee have brought us unto, if you could excuſe your ſelves, as you uſe to doe (it hath been a time of Warre) for when the warre in the beginning might have been prevented, if yee had drawne a little more blood from the right veyne, and might often ere this have been ended.</hi>
+            </p>
+            <p>Now the Houſe of Commons, as the Remonſtrators promiſe in the <note n="*" place="margin">Thus cal<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g thoſe <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eir Com<g ref="char:EOLhyphen"/>iſſioners in <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>arliament to <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> account, <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>w they ſince <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e beginning <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> their Seſſi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to the pre<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt, have diſ<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>arged their <gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ties to the <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>liver ſality the people.</note> title of their Libell, are called to an account, THE COURSE OF ORDER IS CLEAN PERVERTED, WHEN THE SUBJECT SHALL CENSURE THE MAGISTRATE; yet ſuch is the pride and impu<g ref="char:EOLhyphen"/>dence of ſome, that they dare doe it; ſee here, the Houſe of Com<g ref="char:EOLhyphen"/>mons are taxed, that they have ſat five yeeres, juſt foure more then was intended: why then it ſhould ſeeme, that theſe men thought at once to throw downe, and ſet up, to extirpate and Reforme in one day, or at leaſt in one yeare, as here they ſeeme to intimate; whereas it is and will be recorded, a wonder to poſterity, that ſo glorious a Reformation, being ſo ſtrongly and fervently oppoſed, ſhould be gained, confirmed, and ſetting up, and in the ſpace of ſix yeeres. But it is deſired, they ſhould publiſh to the world the good they have done, the Liberty they have gained: Doth not your conſciences informe you, that that is gained for you, which ſome yeares ſince yee durſt not wiſh to attaine; and whereas you affirme, that if a right courſe at firſt had been taken the warre had e<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e this bin ended, and you give your judgement, by what meanes
+<pb n="27" facs="tcp:113745:17"/> it might have been accompliſht, <hi>viz.</hi> if a little blood more had bin drawne from the right veyne. At the beginning of this Warre blood was drawne, and too much if it might have been ſaved with ſafety; and though DESPERATE WOUNDS aske a DESPERATE CURE, yet to be too ſanguine is not good; and if ſome were ſpa<g ref="char:EOLhyphen"/>red that deſerved death, LENITY ſhall be rewarded, if uſed with a good intent: but I ſee your choller rageth within you, that one was exempted, of which thing I tremble to thinke.</p>
+            <p>
+               <hi>For ſake and utterly renounce all crafty and ſubtill intentions, hide not your thoughts from us, and give us encouragement to be open-breaſted unto you; Proclaime before-hand what you intend to doe, eſtabliſhing any thing for the future, and heare all things that can be ſpoken with or againſt the ſame.</hi>
+            </p>
+            <p>Now is held forth in each hand full cups both of ſweet water and bitter, firſt the Houſe of Commons is adviſed to renounce all crafty and ſubtle intentions; I told you before, whatſoever they conclude on to the prejudice of the Subject, they ſurely detract from them<g ref="char:EOLhyphen"/>ſelves; and then inſinuation is uſed, and the utter ruine of Parlia<g ref="char:EOLhyphen"/>ments deſired, to wit, when they wiſh the Houſe not to hide their thoughts from them, but to give them encouragement to be open-breaſted to them, meaning, that they ſhould in all matters uſe their advice; which thing, if aſſented to, what prejudice it would be, what inconveniencies would thereby be occaſioned, let the Reader judge? And without doubt the penner of this REMONSTRANCE was an ANABAPTIST, as may appeare by the enſuing words; <hi>Pro<g ref="char:EOLhyphen"/>claime before-hand</hi> what yee intend to doe, eſtabliſhing any thing for the future, ☞ and heare any thing that can be ſpoken with o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> againſt the ſame: What hurly-burly would be amongſt the multi<g ref="char:EOLhyphen"/>tude of Weavers and Mechanicks, ſitting in counſell together, a<g ref="char:EOLhyphen"/>bout State affaires, while they argue <hi>pro</hi> and <hi>con;</hi> O madneſſe! ſhall the ſupreame Councell, Decree, Order, and Ratifie, and then come and deſire your advice; Doth not your folly ſhame you, and your ignorance cauſe you to bluſh?</p>
+            <p>
+               <hi>Now if you ſhall conſcionably perform your truſt, then wee ſhall not doubt to be made</hi> 
+               <note n="*" place="margin">You know not wherein freedome co<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ſiſts.</note> 
+               <hi>Free-men, and become a Iust, Plenteous, and Pow<g ref="char:EOLhyphen"/>erfull Nation, all that is loſt will be forgotten; and wee ſhall yet have cauſe to rejoyce, in your Wiſdomes and Fidelities.</hi>
+            </p>
+            <p>Ye are a people, that if a Flye fall in your diſh, you will unad<g ref="char:EOLhyphen"/>viſedly caſt away the whole meſſe of meat, though for hunger yee
+<pb n="28" facs="tcp:113745:18"/> afterwards pine: It is apparent to all the world, that the PARLIA<g ref="char:EOLhyphen"/>MENT have conſcionably performed their duty; now performe ye yours alſo, which is, firſt to give thankes to God for his great mercies, and then to ſhew your affection and hearty love to the Inſtruments of his Glory: And wheras you ſay, <hi>that if your deſires were fulfilled, then being abſolute Free-men, you ſhould in time become a Just, Plenteous; and powerfull Nation:</hi> You intimate in ſaying <hi>(wee)</hi> the deſires of the whole Nation, wherey your unparalel'd preſump<g ref="char:EOLhyphen"/>tion is manifeſt; How dare ye, being but a part of a part, if a part at all, taxe, direct, and adviſe the High Court of Parliament? and not contented to expreſſe your ungratefulneſſe to your preſervers, you would involve the whole Kingdome alſo in your Labyrinth of errours; and for your owne parts, had ye your wiſh in all things. it were impoſſible thereby that yee ſhould become plenteous, or potent; for if in a time of trouble and calamity, when yee expect<g ref="char:EOLhyphen"/>ed each day to be ruina<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed, yee demeaned your ſelves wickedly a<g ref="char:EOLhyphen"/>gainſt God and your Magiſtrates, would yee not be farre worſe. having your wiſh, and living at eaſe? mans nature being more apt to bee * in<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ared by the fruits of Proſperity and joy, then by the <note place="margin">Maris eceli<g ref="char:EOLhyphen"/>ce temperiem <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rbincs tem<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtateſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> com<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>endant, habe<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s vices con<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tio, mortali<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t adverſa cundis, &amp; verſis ſecur<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> naſcantur-<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cultat utro-<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mque ſemina <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>eus &amp; ple<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mque bono<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m &amp; malo<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m cauſe ſub verſa ſpecie <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ent. Flin. in <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Trajan. Adverſity.</note> frownes of * ſorrow.</p>
+            <p>The Author of this Libell concludeth like a Saint, having railed before like a Furey, and for their more powerfull efficacie, he uſeth the words of <hi>Samuel.</hi>
+            </p>
+            <div type="prohibition">
+               <head>PROSCRIPT.</head>
+               <p>Moreover, as for me, God forbid that I ſhould ſin againſt the Lord in ceaſing: to pray for you, but I would teach you the good, and the right way, onely feare the Lord and ſerve him in truth, with all your heart, conſider what great things he hath done for you, but if yee ſtill doe wickedly, yee ſhall be conſumed, both ye and your King.</p>
+               <p>But know Sir,</p>
+               <q>That the righteouſneſſe of the upright ſhall deliver them but tranſ<g ref="char:EOLhyphen"/>greſſors ſhall be taken in their owne ſnare, <bibl>
+                     <hi>PROV.</hi>
+                  </bibl>
+               </q>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <p>Imprimatur,</p>
+            <closer>
+               <signed>JOH. DOWNAME.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
